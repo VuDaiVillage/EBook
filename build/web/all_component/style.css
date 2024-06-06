@@ -16,6 +16,15 @@
     background-repeat: no-repeat;
     background-size: cover;
 }
+.background-img
+{
+    color: red
+    background-image: url("image/book_header.jpg");
+    height: 80vh;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
 
 
 
